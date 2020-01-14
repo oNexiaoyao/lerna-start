@@ -1,6 +1,6 @@
 {
   "name": "package-1",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "dependencies": {
     "axios": "0.17.1",
     "lodash": "^4.17.15",
-    "package-2": "^0.0.1"
+    "package-2": "^0.1.0"
   }
 }
